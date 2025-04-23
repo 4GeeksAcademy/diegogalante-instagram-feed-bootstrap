@@ -1,0 +1,21 @@
+body {
+    background-color: #fff !important;
+    font-family: Arial, sans-serif;
+}.card {
+    border: none;
+    border-radius: 12px;
+    min-height: 650px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+  }.img-fluid {
+    height: 400px; 
+    object-fit: cover;
+    width: 100%;
+    
+  }.fw-semibold {
+    font-weight: 600;
+  }.navbar-brand {
+    font-weight: bold;
+    font-size: 1.25rem;
+  }

@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+header {
+    background-color: gray;
+    margin-bottom: 36px;
+}
+.img-fluid {
+    width: 100%;
+    height: 550px; 
+    object-fit: cover;
+}
+body, html {
+    margin: 0;
+    padding: 0;
+}
